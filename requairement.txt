@@ -1,0 +1,6 @@
+scapy
+argparse
+colorama
+PyQt6
+pypcap
+scapy-http
